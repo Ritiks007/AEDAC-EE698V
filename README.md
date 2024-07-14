@@ -57,3 +57,8 @@ Then finally [3,3,5,5,5,5,7,7,7,7] is reduced to [3,5,7] and converted to label 
 ## References
 1. AED talk by Justin Salamon https://www.youtube.com/watch?v=zvccOFz2KxI&ab_channel=SpeechandAudiointheNortheast%28SANE%29 
 2. Application of AED in Amazon Alexa: https://www.youtube.com/watch?v=-nKelNVVblM&ab_channel=Amazonre%3AMAR
+
+## Collaborators
+1. Ritik Saxena
+2. Shivam Singhal
+   
